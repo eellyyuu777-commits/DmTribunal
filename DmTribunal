@@ -1,21 +1,3 @@
-<!--
-VRAI TEMPLATE FULL APP
-Frontend + Auth + Sauvegarde + Multi conversations
-TOUT fonctionne réellement côté navigateur.
-
-⚠️ Pour avoir un vrai système mondial en ligne :
-tu devras connecter Supabase/Firebase plus tard.
-
-Mais CE code :
-- fonctionne vraiment
-- sauvegarde vraiment
-- crée vraiment des comptes localement
-- gère plusieurs conversations
-- upload des images
-- dashboard dynamique
-- historique réel
--->
-
 <!DOCTYPE html>
 <html lang="fr">
 
